@@ -111,7 +111,20 @@ All individual code contributors are expected to fill and return the
 :doc:`OME Contributor License Agreement <cla>`. The agreement is between OME,
 represented by the University of Dundee, and the copyright owner or the legal
 entity authorized by the copyright owner and is valid for all contributions
-across all OME repositories.
+across all OME repositories. OME requires a Contributor License Agreement
+independent of how the contributed code was created; there are no
+exceptions for code written in whole or in part with the use of an LLM
+or other automated tool.
+
+All code contributions, regardless of how they are created, are subject to
+a review process by one or more members of the OME team. Successful contributors
+in all cases are expected to:
+
+- describe the proposed changes, and why they are necessary
+- answer questions from the reviewers, which may include but are not limited to
+  questions about technical choices, relevant test cases, and impacts on existing
+  functionality
+- modify contributions, if necessary and appropriate, to address review comments
 
 Proprietary Native Code Blobs
 -----------------------------
