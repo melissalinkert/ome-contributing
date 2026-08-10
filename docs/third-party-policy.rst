@@ -135,3 +135,13 @@ and support responsibility for any such native code blob remains entirely with
 the contributor. OME will direct support issues it receives to the contributor
 publicly and any current or future compatibility testing with the native code
 blob with OME software is performed on a best effort basis.
+
+Exporting Proprietary Formats
+-----------------------------
+
+OME is not able to accept contributions that include saving or exporting to formats
+that do not have an open specification. This includes most of the file formats for which
+reading is supported. Contributions that enable writing proprietary compression types for
+which no open source implementation is available are also unacceptable, as is support for
+writing compression types which may have an open source implementation but no defined standard
+for how to use this within the relevant file format.
